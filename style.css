@@ -1,0 +1,17 @@
+.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background: #F4F6F5;
+}
+
+.top.image {
+  padding-top: 10px;
+}
+
+.tab-left {
+  margin-left: 2.5em;
+}
+.tab-right {
+  margin-right: 2.5em;
+}
+
