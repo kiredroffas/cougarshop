@@ -2,16 +2,30 @@
   box-shadow: none;
   border: none;
   background: #F4F6F5;
+  height: 3.5em;
 }
-
-.top.image {
-  padding-top: 10px;
-}
-
-.tab-left {
+.tab.left {
   margin-left: 2.5em;
 }
-.tab-right {
+.tab.right {
   margin-right: 2.5em;
 }
 
+.center.coug {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.middle.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.bg.image
+{
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
