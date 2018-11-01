@@ -4,14 +4,14 @@
   background: #F4F6F5;
   height: 3.5em;
 }
-.tab.left {
+.tab-left {
   margin-left: 2.5em;
 }
-.tab.right {
+.tab-right {
   margin-right: 2.5em;
 }
 
-.center.coug {
+.center-coug {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -23,9 +23,40 @@
   border: none;
 }
 
-.bg.image
+.bg-image
 {
   width: 100%;
-  height: 100%;
-  z-index: -1;
+  height: auto;
+}
+
+.black-background {
+  background-color: #292929;
+  height: 400px;
+  color: #F0F0F0;
+}
+
+.footer-padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+hr {
+  color: #F0F0F0;
+  background-color: #F0F0F0;
+  height: 1px;
+  border: none;
+}
+
+.grid-padding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.white {
+  color: #F0F0F0;
+}
+
+.footer-sm {
+  color: #F0F0F0;
+  padding: 20px;
 }
