@@ -15,3 +15,51 @@
   margin-right: 2.5em;
 }
 
+.center-coug {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.middle.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.bg-image
+{
+  width: 100%;
+  height: auto;
+}
+
+.black-background {
+  background-color: #292929;
+  height: 440px;
+  color: #F0F0F0;
+}
+
+.footer-padding {
+  padding-bottom: 50px;
+}
+
+hr {
+  color: #F0F0F0;
+  background-color: #F0F0F0;
+  height: 1px;
+  border: none;
+}
+
+.grid-padding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.white {
+  color: #F0F0F0;
+}
+
+.footer-sm {
+  color: #F0F0F0;
+  padding: 20px;
+}
