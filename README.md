@@ -1,6 +1,7 @@
 For this project, I created a mockup of a "Cougar Shop" webpage using semantic UI (semantic-ui.com), HTML, and CSS stlying.
 
-Components include: Top Menubar:    Social media icon links
+Components include: 
+                    Top Menubar:    Social media icon links
                                     My Cart dropdown
                                     Contrasting background color
                                     
