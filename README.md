@@ -10,7 +10,11 @@ Middle Section: Fixed size centered logo, Centered menu items - four menu items 
 Footer: Darker background color, Bottom and Top padding, three column grid - each column has horizontal rule and a list of items, bigger social media icons - inverted color, copyright information
 
 # Screenshots
+1.
 ![Alt text](/screenshots/sc1.png?raw=true "Screenshot 1")
+2.
 ![Alt text](/screenshots/sc2.png?raw=true "Screenshot 2")
+3.
 ![Alt text](/screenshots/sc3.png?raw=true "Screenshot 3")
+4.
 ![Alt text](/screenshots/sc4.png?raw=true "Screenshot 4")
